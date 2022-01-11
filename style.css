@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h2, h3{
+    font-family: 'Lovers Quarrel';
+    font-size: 50px;
+}
+h2, h3{
+    font-size: 30px;
+}
+ol{
+    list-style-type: upper-alpha;
+}
+th{
+    text-align: left;
+    color: white;
+    background-color: pink;
+    padding: 10px;
+}
+a{
+    color: pink;
+}
+a:hover{
+    color: rgb(230, 44, 75);
+}
+blockquote{
+    font-size: x-large;
+    font-family: 'Lovers Quarrel';
+    color: pink;
+}
+li{
+    padding: 3px;
+}
+button{
+    background-color: pink;
+    color: white;
+}
+button:hover{
+    background-color: rgb(230, 44, 75);
+}
